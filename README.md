@@ -145,3 +145,14 @@ git:
 4. 使用`TreeSet、LinkedHashSet、TreeMap`
 5. 使用`ArrayBlockingQueue、LinkedBlockingQueue`
 
+
+
+## 第十天
+
+1. 什么是异常
+2. 什么是受检时异常
+3. 什么是运行时异常
+4. 怎么捕获异常并处理
+5. 知晓常见的异常
+6. 自定义异常
+
