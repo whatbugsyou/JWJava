@@ -235,3 +235,14 @@ git:
 4. 什么是`HTTP、HTTPS`
 5. 什么是`HTML、XML、JavaScript、CSS`
 
+
+
+## 第19天
+
+1. 使用`ServerSocket`创建TCP网络监听服务端
+2. 使用`Socket`创建客户端连接服务
+3. 思考如何服务端如何实现多个客户端同时连接
+4. 使用`DatagramSocket`进行UDP通信
+5. 实现处理多客户端同时连接
+6. 通过广播机制，实现简单多人聊天室
+
