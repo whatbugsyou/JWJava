@@ -225,3 +225,13 @@ git:
 6. 如何把java对象转换成JSON字符串
 7. 如何把JSON字符串转换成java对象
 
+
+
+## 第18天
+
+1. 熟悉计算机网络基础
+2. `TCP`与`UDP`的区别
+3. 理解密码学中对称与非对称加密
+4. 什么是`HTTP、HTTPS`
+5. 什么是`HTML、XML、JavaScript、CSS`
+
